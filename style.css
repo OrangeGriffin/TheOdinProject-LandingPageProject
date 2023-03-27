@@ -19,6 +19,10 @@ body {
     align-items: center;
 }
 
+.header-logo {
+    font-size: 24px;
+}
+
 .footer {
     height: 45px;
     display: flex;
@@ -33,6 +37,11 @@ body {
 
 ul {
     list-style-type: none;
+}
+
+.right-links {
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .right-links > ul {
