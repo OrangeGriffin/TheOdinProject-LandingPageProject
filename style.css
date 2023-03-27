@@ -11,3 +11,9 @@ body {
     justify-content: space-between;
     height: 100vh;
 }
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+}
