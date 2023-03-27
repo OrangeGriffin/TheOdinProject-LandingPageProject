@@ -24,4 +24,5 @@ ul {
 
 .right-links > ul {
     display: flex;
+    gap: 2em;
 }
