@@ -58,3 +58,8 @@ ul {
 .hero-left {
     width: 250px;
 }
+
+.hero-image {
+    height: 200px;
+    width: auto;
+}
