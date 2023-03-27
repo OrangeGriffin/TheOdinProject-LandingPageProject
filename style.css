@@ -52,4 +52,9 @@ ul {
 .hero-container {
     display: flex;
     justify-content: space-between;
+    padding: 8px;
+}
+
+.hero-left {
+    width: 250px;
 }
