@@ -108,4 +108,5 @@ ul {
 .info img {
     width: 50%;
     height: auto;
+    object-fit: cover;
 }
