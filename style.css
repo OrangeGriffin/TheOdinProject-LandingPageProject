@@ -90,3 +90,22 @@ ul {
     height: 200px;
     width: auto;
 }
+
+.info {
+    display: flex;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    gap: 2rem;
+    justify-content: center;
+}
+
+.info-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.info img {
+    width: 50%;
+    height: auto;
+}
