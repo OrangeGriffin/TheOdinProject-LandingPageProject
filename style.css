@@ -48,3 +48,8 @@ ul {
     display: flex;
     gap: 1em;
 }
+
+.hero-container {
+    display: flex;
+    justify-content: space-between;
+}
