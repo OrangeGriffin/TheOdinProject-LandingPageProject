@@ -19,6 +19,10 @@ body {
     align-items: center;
 }
 
+.header, .footer {
+    background-color: #1F2937;
+}
+
 ul {
     list-style-type: none;
 }
