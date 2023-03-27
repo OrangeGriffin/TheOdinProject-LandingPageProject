@@ -21,6 +21,7 @@ body {
 
 .header, .footer {
     background-color: #1F2937;
+    color: #F9FAF8;
 }
 
 ul {
@@ -29,5 +30,5 @@ ul {
 
 .right-links > ul {
     display: flex;
-    gap: 2em;
+    gap: 1em;
 }
