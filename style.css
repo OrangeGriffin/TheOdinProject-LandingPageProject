@@ -90,3 +90,18 @@ ul {
     height: 200px;
     width: auto;
 }
+
+.info-container {
+    margin-top: 25px;
+}
+
+.info-header {
+    text-align: center;
+}
+
+.info-boxes-container {
+    display: flex;
+    margin-top: 25px;
+    gap: 5rem;
+    justify-content: center;
+}
