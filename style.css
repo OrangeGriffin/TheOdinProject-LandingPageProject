@@ -21,3 +21,7 @@ body {
 ul {
     list-style-type: none;
 }
+
+.right-links > ul {
+    display: flex;
+}
