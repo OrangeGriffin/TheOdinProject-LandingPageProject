@@ -132,3 +132,10 @@ ul {
     font-size: 36px;
     color: #1F2937;
 }
+
+.call-to-action-container {
+    display: flex;
+    margin-top:30px;
+    margin-bottom: 30px;
+    justify-content: center;
+}
