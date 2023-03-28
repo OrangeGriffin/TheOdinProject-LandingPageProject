@@ -121,3 +121,13 @@ ul {
     width: 150px;
     object-fit: cover;
 }
+
+.quote-container {
+    background-color: #E5E7EB;
+    padding: 20px 50px 20px 50px;
+}
+
+.quote-container p {
+    font-size: 36px;
+    color: #1F2937;
+}
