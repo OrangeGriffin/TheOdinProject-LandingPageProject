@@ -97,6 +97,7 @@ ul {
     padding-bottom: 15px;
     gap: 2rem;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .info-box {
@@ -105,8 +106,8 @@ ul {
     justify-content: center;
 }
 
-.info img {
-    width: 50%;
-    height: auto;
+.info-box img {
+    height: 150px;
+    width: 150px;
     object-fit: cover;
 }
