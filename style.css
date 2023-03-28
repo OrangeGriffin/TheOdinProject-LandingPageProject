@@ -96,6 +96,7 @@ ul {
     flex-direction: column;
     align-items: center;
     padding-top: 15px;
+    margin-bottom: 20px;
 }
 
 .info-header {
